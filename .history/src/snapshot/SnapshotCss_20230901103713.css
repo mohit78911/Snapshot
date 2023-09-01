@@ -1,0 +1,11 @@
+.imgdisplay {
+    display:inline-flex;
+    margin-top: 15px;
+    /* justify-content: center;
+    align-items: center;
+    align-content: center; */
+}
+
+*{
+    flex: 5;
+}
